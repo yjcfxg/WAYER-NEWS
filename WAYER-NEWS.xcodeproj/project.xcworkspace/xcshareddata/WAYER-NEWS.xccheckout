@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7BA1C91A-60E9-4398-9E3A-B40B94C29C00</string>
+	<key>IDESourceControlProjectName</key>
+	<string>WAYER-NEWS</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BB9B504E-BC1E-4C2F-A008-C943E72BC2B5</key>
+		<string>svn://172.16.5.1/BJS140727/ProjectA/WAYER%E8%B5%84%E8%AE%AF(%E8%83%A1%E7%AB%9E%E5%B0%98%20%E3%80%81%E5%BE%90%E5%85%89%E3%80%81%E7%90%9A%E5%A2%9E%E8%BE%89)_10/WAYER-NEWS</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>WAYER-NEWS.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BB9B504E-BC1E-4C2F-A008-C943E72BC2B5</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>BB9B504E-BC1E-4C2F-A008-C943E72BC2B5</key>
+		<string>svn://172.16.5.1</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn://172.16.5.1/BJS140727/ProjectA/WAYER%E8%B5%84%E8%AE%AF(%E8%83%A1%E7%AB%9E%E5%B0%98%20%E3%80%81%E5%BE%90%E5%85%89%E3%80%81%E7%90%9A%E5%A2%9E%E8%BE%89)_10/WAYER-NEWS/WAYER-NEWS.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BB9B504E-BC1E-4C2F-A008-C943E72BC2B5</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BB9B504E-BC1E-4C2F-A008-C943E72BC2B5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>WAYER-NEWS</string>
+		</dict>
+	</array>
+</dict>
+</plist>

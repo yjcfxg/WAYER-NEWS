@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>学Unity3D，做游戏开发工程师</string>
+		<key>imgsrc</key>
+		<string>http://www.lanou3g.com/uploadfile/2014/0923/20140923051155832.jpg</string>
+		<key>url</key>
+		<string>http://www.lanou3g.com/zt/unity3d/</string>
+		<key>docid</key>
+		<string>LANOU_AD_00</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>北京蓝鸥3G学院黄金十月</string>
+		<key>imgsrc</key>
+		<string>http://www.lanou3g.com/uploadfile/2014/0930/20140930070027744.jpg</string>
+		<key>url</key>
+		<string>http://www.lanou3g.com/</string>
+		<key>docid</key>
+		<string>LANOU_AD_01</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>北京蓝鸥Swift开发视频课程</string>
+		<key>imgsrc</key>
+		<string>http://www.lanou3g.com/uploadfile/2014/0722/20140722045242403.jpg</string>
+		<key>url</key>
+		<string>http://www.lanou3g.com/zt/swift.html</string>
+		<key>docid</key>
+		<string>LANOU_AD_02</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>北京蓝鸥iOS基础课免费学</string>
+		<key>imgsrc</key>
+		<string>http://www.lanou3g.com/uploadfile/2014/0819/20140819020530253.jpg</string>
+		<key>url</key>
+		<string>http://www.lanou3g.com/iospx/</string>
+		<key>docid</key>
+		<string>LANOU_AD_03</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>北京首家Unity3D官方授权培训机构</string>
+		<key>imgsrc</key>
+		<string>http://www.lanou3g.com/uploadfile/2014/0916/20140916071459782.jpg</string>
+		<key>url</key>
+		<string>http://www.lanou3g.com/2014/lo_news_0916/545.html</string>
+		<key>docid</key>
+		<string>LANOU_AD_04</string>
+	</dict>
+</array>
+</plist>

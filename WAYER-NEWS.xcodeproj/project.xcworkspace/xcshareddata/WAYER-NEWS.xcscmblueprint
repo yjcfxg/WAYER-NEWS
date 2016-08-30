@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "ed1d5fd7-7f61-4476-9ab6-e1981bf51f5f++9441",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "ed1d5fd7-7f61-4476-9ab6-e1981bf51f5f++9441" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "ed1d5fd7-7f61-4476-9ab6-e1981bf51f5f++9441" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7BA1C91A-60E9-4398-9E3A-B40B94C29C00",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "ed1d5fd7-7f61-4476-9ab6-e1981bf51f5f++9441" : "WAYER-NEWS\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "WAYER-NEWS",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "WAYER-NEWS.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/172.16.5.1",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "ed1d5fd7-7f61-4476-9ab6-e1981bf51f5f++9441"
+    }
+  ]
+}
